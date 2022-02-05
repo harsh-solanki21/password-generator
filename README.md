@@ -1,3 +1,6 @@
+# Deployed App Link
+[Password Generator React App](https://password-generator-react-app.herokuapp.com/)
+
 # Password Generator
 - This `Password Generator` application is made using `React JS`.
 - This application is used to generate complex passwords which is difficult to guess/decode.
